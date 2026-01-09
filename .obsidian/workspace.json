@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#このノートについて",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,13 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ae223a17c5291c99",
@@ -186,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0275e61b840ae5c6",
+  "active": "7b038f8071e9b6d7",
   "lastOpenFiles": [
     "1_スタート.md",
     "README.md",
