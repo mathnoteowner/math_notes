@@ -1,2 +1,4 @@
 # math_notes
-数学全体のマップを作成する / Mapping the whole mathematical conceptsテスト
+数学全体のマップを作成する / Mapping the whole mathematical concepts
+
+[[このノートについて]]
