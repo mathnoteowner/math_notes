@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ae223a17c5291c99",
@@ -185,11 +186,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e43ffc001e75ec24",
+  "active": "0275e61b840ae5c6",
   "lastOpenFiles": [
+    "1_スタート.md",
     "README.md",
     "01_このノートについて.md",
-    "1_スタート.md",
     "05_参考文献.md",
     "06_学習記録.md",
     "Untitled.md",
