@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Index.md",
+                "file": "01_このノートについて.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_Index"
+              "title": "01_このノートについて"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Index.md",
+                "file": "01_このノートについて.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00_Index"
+              "title": "Backlinks for 01_このノートについて"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Index.md",
+                "file": "01_このノートについて.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 00_Index"
+              "title": "Outgoing links from 01_このノートについて"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Index.md",
+                "file": "01_このノートについて.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00_Index"
+              "title": "Outline of 01_このノートについて"
             }
           }
         ]
@@ -184,14 +184,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b038f8071e9b6d7",
+  "active": "0275e61b840ae5c6",
   "lastOpenFiles": [
-    "学習記録.md",
     "00_Index.md",
+    "1_スタート.md",
+    "01_このノートについて.md",
+    "05_参考文献.md",
+    "06_学習記録.md",
     "Untitled.md",
-    "参考文献.md",
-    "スタート.md",
-    "このノートについて.md",
     "Untitled.base"
   ]
 }
